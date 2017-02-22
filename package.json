@@ -34,10 +34,9 @@
     "babel-cli": "*",
     "babel-core": "*",
     "babel-eslint": "*",
-    "babel-plugin-syntax-flow": "*",
-    "babel-plugin-transform-flow-strip-types": "*",
     "babel-plugin-transform-runtime": "*",
     "babel-preset-env": "*",
+    "babel-preset-flow": "*",
     "babel-preset-stage-0": "*",
     "eslint": "*",
     "eslint-config-airbnb-base": "*",
@@ -45,6 +44,6 @@
     "eslint-plugin-import": "*",
     "flow-bin": "^0.37",
     "flow-typed": "*",
-    "jest": "*"
+    "jest": "^18"
   }
 }
