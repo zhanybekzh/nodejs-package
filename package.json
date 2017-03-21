@@ -30,7 +30,6 @@
     "gulp": "*"
   },
   "devDependencies": {
-    "debug": "*",
     "babel-cli": "*",
     "babel-core": "*",
     "babel-eslint": "*",
@@ -38,12 +37,14 @@
     "babel-preset-env": "*",
     "babel-preset-flow": "*",
     "babel-preset-stage-0": "*",
-    "eslint": "*",
+    "debug": "*",
+    "eslint": "^3.18.0",
     "eslint-config-airbnb-base": "*",
     "eslint-plugin-flowtype": "*",
     "eslint-plugin-import": "*",
-    "flow-bin": "^0.37",
+    "eslint-plugin-jest": "^19.0.1",
+    "flow-bin": "^0.42",
     "flow-typed": "*",
-    "jest": "^18"
+    "jest": "^19"
   }
 }
