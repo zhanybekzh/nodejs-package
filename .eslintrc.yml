@@ -1,6 +1,8 @@
 ---
 
-plugins: [jest, flowtype]
+plugins:
+  - jest
+  - flowtype
 
 env:
   node: true
@@ -10,6 +12,8 @@ parser: babel-eslint
 
 extends:
   - 'airbnb-base'
+  - 'plugin:jest/recommended'
+  - 'plugin:flowtype/recommended'
 
 rules:
   no-console: 0
