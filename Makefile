@@ -4,7 +4,7 @@ run:
 	npm run babel-node -- 'src/bin/hexlet.js' 10
 
 install-deps:
-	yarn
+	npm install
 
 install-flow-typed:
 	npm run flow-typed install
