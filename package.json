@@ -9,6 +9,9 @@
   "engines": {
     "node": "8"
   },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "jest",
     "babel-node": "babel-node",
