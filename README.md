@@ -6,6 +6,12 @@
 
 ## Setup
 
+```sh
+$ make install
 ```
-make install
+
+## Run tests
+
+```sh
+$ make test
 ```
