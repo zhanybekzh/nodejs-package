@@ -17,7 +17,6 @@
     "babel-node": "babel-node",
     "flow": "flow",
     "flow-typed": "flow-typed",
-    "gulp": "gulp",
     "eslint": "eslint",
     "build": "NODE_ENV=production babel src --out-dir dist --source-maps inline",
     "prepublishOnly": "npm run build"
