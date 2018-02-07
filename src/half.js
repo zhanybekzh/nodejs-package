@@ -1,5 +1,6 @@
 // @flow
 
-export default function (num: number): number {
-  return num / 2;
-}
+export default (num: number): number => {
+  const result = num / 2;
+  return result;
+};
