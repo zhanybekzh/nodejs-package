@@ -40,21 +40,21 @@
   "devDependencies": {
     "babel-cli": "*",
     "babel-core": "*",
-    "babel-eslint": "^8.2.1",
-    "babel-jest": "^22.2.2",
+    "babel-eslint": "^8.2.2",
+    "babel-jest": "^22.4.1",
     "babel-plugin-transform-runtime": "*",
     "babel-preset-env": "*",
     "babel-preset-flow": "*",
     "babel-preset-stage-0": "*",
     "debug": "*",
-    "eslint": "^4.17.0",
+    "eslint": "^4.18.1",
     "eslint-config-airbnb-base": "*",
-    "eslint-plugin-flowtype": "^2.44.0",
-    "eslint-plugin-import": "*",
-    "eslint-plugin-jest": "^21.12.1",
+    "eslint-plugin-flowtype": "^2.46.1",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jest": "^21.12.2",
     "flow-bin": "^0.57",
     "flow-typed": "^2.3.0",
-    "jest": "^21",
-    "jest-cli": "^22.3.0"
+    "jest": "^22",
+    "jest-cli": "^22.4.2"
   }
 }
