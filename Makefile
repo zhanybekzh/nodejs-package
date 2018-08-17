@@ -1,13 +1,13 @@
 install: install-deps install-flow-typed
 
 run:
-	npm run babel-node -- 'src/bin/hexlet.js' 10
+	npx babel-node -- 'src/bin/hexlet.js' 10
 
 install-deps:
 	npm install
 
 install-flow-typed:
-	npm run flow-typed install
+	npx flow-typed install
 
 build:
 	rm -rf dist
@@ -17,10 +17,10 @@ test:
 	npm test
 
 check-types:
-	npm run flow
+	npx flow
 
 lint:
-	npm run eslint .
+	npx eslint .
 
 publish:
 	npm publish
