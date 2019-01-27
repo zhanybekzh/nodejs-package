@@ -1,5 +1,3 @@
-// @flow
-
 import half from '../src';
 
 test('half', () => {

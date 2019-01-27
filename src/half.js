@@ -1,6 +1,4 @@
-// @flow
-
-export default (num: number): number => {
+export default (num) => {
   const result = num / 2;
   return result;
 };
