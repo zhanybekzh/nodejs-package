@@ -1,6 +1,6 @@
 // @ts-check
 
-import _ from 'lodash-es';
+import _ from 'lodash';
 
 /**
  * @param {Number} num
