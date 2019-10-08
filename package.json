@@ -32,7 +32,7 @@
   "homepage": "https://github.com/hexlet-boilerplates/nodejs-package#readme",
   "dependencies": {
     "@babel/plugin-proposal-pipeline-operator": "^7.5.0",
-    "lodash-es": "^4.17.15"
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.2",
